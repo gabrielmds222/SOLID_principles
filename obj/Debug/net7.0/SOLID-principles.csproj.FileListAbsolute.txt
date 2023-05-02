@@ -1,0 +1,15 @@
+/home/gabrielmds222/SOLID-principles/bin/Debug/net7.0/SOLID-principles
+/home/gabrielmds222/SOLID-principles/bin/Debug/net7.0/SOLID-principles.deps.json
+/home/gabrielmds222/SOLID-principles/bin/Debug/net7.0/SOLID-principles.runtimeconfig.json
+/home/gabrielmds222/SOLID-principles/bin/Debug/net7.0/SOLID-principles.dll
+/home/gabrielmds222/SOLID-principles/bin/Debug/net7.0/SOLID-principles.pdb
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.csproj.AssemblyReference.cache
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.AssemblyInfoInputs.cache
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.AssemblyInfo.cs
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.csproj.CoreCompileInputs.cache
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.dll
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/refint/SOLID-principles.dll
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.pdb
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/SOLID-principles.genruntimeconfig.cache
+/home/gabrielmds222/SOLID-principles/obj/Debug/net7.0/ref/SOLID-principles.dll
